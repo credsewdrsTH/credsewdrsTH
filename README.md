@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @credsewdrsTH
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Python
-- 📫 How to reach me in Roblox acc name 
 
 ![Prant](https://user-images.githubusercontent.com/95897670/146169325-a25c8b11-d906-4dc2-adc5-037573b70380.png)
 
